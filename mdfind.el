@@ -38,7 +38,7 @@
 ;;   - m : perform new query
 
 ;; The latest version of this file is available at
-;;
+;; http://hacks-galore.org/darcs?r=mdfind-el;a=tree
 
 ;;; Code:
 
